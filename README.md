@@ -1,5 +1,6 @@
 # az-rt
 azure route-table association switcher
+
 This is a simple bash script that leverages azure-cli to make several route-table subnet association changes within a single vNET. 
 
 
